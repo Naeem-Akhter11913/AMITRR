@@ -15,4 +15,4 @@ in right side the overall student exams records
 
 in the top there are two buttons first one is for dashboard and second one is for go to the dashboard 
 in dashboard student only can see their givent results in separate language wise tables 
-and there are also the graph in which student can visualise their result in grapghs
+and there are also the graph in which student can visualise their result in grapghs 
